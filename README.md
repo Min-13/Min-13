@@ -10,7 +10,3 @@ I’ve played with coding for fun, but now I’m ready to dive deeper into the f
 * ✉️  You can contact me at [minthawzin182002@gmailcom](mailto:minthawzin182002@gmailcom)
 * 🧠  I'm curretly learning Data Structures & Algorithms and Java.
 
-
-<a href="https://www.github.com/min-13" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/min-13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
