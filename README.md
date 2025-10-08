@@ -8,5 +8,5 @@ I’ve played with coding for fun, but now I’m ready to dive deeper into the f
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [minthawzin182002@gmailcom](mailto:minthawzin182002@gmailcom)
-* 🧠  I'm curretly learning Data Structures & Algorithms and Java.
+* 🧠  I'm curretly learning Software Design Patterns, Computer Networks & Operating System Architecture.
 
