@@ -1,5 +1,3 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
 # 👋 About Me
 Hi, I'm **Min Thaw Zin** — a **Computer Science and Mathematics double major** (concentration in Software Engineering) with a **Business minor** at **Judson University**.  
 I'm passionate about **Software Engineering**, **AI research**, **data-driven problem-solving**, and **ethical technology**. I balance full-time studies with part-time work, research, and community leadership.
@@ -71,13 +69,8 @@ Collaborated with **Judson CS Department** on a **systematic NLP analysis** of g
 ---
 
 ## 🌐 Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/minthawzin)  
-🔗 [GitHub](https://github.com/minthawzin) 
+🔗 [LinkedIn](https://www.linkedin.com/in/min-thaw-zin-)
+🔗 [GitHub](https://github.com/Min-13)
 
 ---
 
-## 📊 GitHub Activity
-![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=minthawzin&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minthawzin&layout=compact&theme=tokyonight)
-
----
