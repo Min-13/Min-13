@@ -4,6 +4,7 @@ I'm passionate about **Software Engineering**, **AI research**, **data-driven pr
 
 * 🌍  Based in **Chicago, Illinois**
 * ✉️  Contact: [minthawzin182002@gmail.com](mailto:minthawzin182002@gmail.com)
+* 🧑‍💼  LinkedIn: https://www.linkedin.com/in/min-thaw-zin1/
 * 🧠  Currently learning **Software Design Patterns**, **Computer Networks**, and **Operating System Architecture**
 
 ---
