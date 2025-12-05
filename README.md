@@ -69,9 +69,3 @@ Collaborated with **Judson CS Department** on a **systematic NLP analysis** of g
 
 ---
 
-## 🌐 Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/min-thaw-zin-)
-🔗 [GitHub](https://github.com/Min-13)
-
----
-
