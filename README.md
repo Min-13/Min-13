@@ -4,7 +4,7 @@ Hi, I'm **Min Thaw Zin** — a **Computer Science and Mathematics double major**
 I'm passionate about **Software Engineering**, **AI research**, **data-driven problem-solving**, and **ethical technology**. I balance full-time studies with part-time work, research, and community leadership.
 
 * 🌍  Based in **Chicago, Illinois**
-* ✉️  Contact: [minthawzin182002@gmail.com](mailto:minthawzin182002@gmail.com)
+* ✉️  Contact: [minthawzin182002@gmail.com](mailto:mintxawxin@gmail.com)
 * 👨‍💼  LinkedIn: [https://www.linkedin.com/in/min-thaw-zin1/](https://www.linkedin.com/in/min-thaw-zin1/)
 * 🧠  Currently learning **Software Engineering**, **Cloud Computing**, and **Database System**
 
